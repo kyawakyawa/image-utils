@@ -2,3 +2,7 @@
 	path = third_party/stb
 	url = https://github.com/nothings/stb.git
 	branch = master
+[submodule "third_party/filesystem"]
+	path = third_party/filesystem
+	url = https://github.com/gulrak/filesystem.git
+	branch = master
